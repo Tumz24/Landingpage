@@ -1,0 +1,59 @@
+
+body{
+      margin:  0;
+      padding: 100px;
+      height: 100%;
+      width: 100%;
+}
+
+h1{
+    text-align: center;
+    color: #4C48A8;
+    text-decoration: underline;
+    
+}
+
+.picture{
+    width: 50%;
+    height: 600px;
+    float: left;
+    background-image: url(IMG_4480.JPG);
+    background-size: cover;
+    text-align: center;
+  }
+
+  .container{
+    height: 800px;
+    width: 100%;
+}
+
+
+.about{
+    width: 45%;
+    background-color: #9F48A8;
+    padding: 20px;
+    height: 600px;
+    color: wheat;
+    float: right;
+}
+
+
+
+
+
+
+   .quote{
+          width: 75%;
+          height: 50px;
+          margin:50px auto;
+          background-color:#9F50C7 ;
+          color: white;
+          padding-top: 12px;
+          border-radius: 7px;
+           text-align: center;
+        }  
+   
+    
+
+
+    
